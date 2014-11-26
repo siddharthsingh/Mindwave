@@ -1,0 +1,35 @@
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\bin\Debug\ThinkUino.exe
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\bin\Debug\ThinkUino.pdb
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Form1.resources
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Properties.Resources.resources
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csproj.GenerateResource.Cache
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.exe
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.pdb
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\bin\Debug\ThinkGearNET.dll
+c:\users\antonio blescia\documents\visual studio 2010\Projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csprojResolveAssemblyReference.cache
+B:\download3\ThinkUino\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.exe
+B:\download3\ThinkUino\ThinkUino\ThinkUino\bin\Debug\ThinkUino.exe
+B:\download3\ThinkUino\ThinkUino\ThinkUino\bin\Debug\ThinkUino.pdb
+B:\download3\ThinkUino\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csprojResolveAssemblyReference.cache
+B:\download3\ThinkUino\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Form1.resources
+B:\download3\ThinkUino\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Properties.Resources.resources
+B:\download3\ThinkUino\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csproj.GenerateResource.Cache
+B:\download3\ThinkUino\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.pdb
+I:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.exe
+I:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.pdb
+I:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csprojResolveAssemblyReference.cache
+I:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Form1.resources
+I:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Properties.Resources.resources
+I:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csproj.GenerateResource.Cache
+I:\bak\ThinkUino\ThinkUino\bin\Debug\ThinkUino.exe
+I:\bak\ThinkUino\ThinkUino\bin\Debug\ThinkUino.pdb
+G:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.exe
+G:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.pdb
+G:\bak\ThinkUino\ThinkUino\bin\Debug\ThinkUino.exe
+G:\bak\ThinkUino\ThinkUino\bin\Debug\ThinkUino.pdb
+G:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csprojResolveAssemblyReference.cache
+G:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Form1.resources
+G:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.Properties.Resources.resources
+G:\bak\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.csproj.GenerateResource.Cache
+B:\visual studio projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.exe
+B:\visual studio projects\ThinkUino\ThinkUino\obj\x86\Debug\ThinkUino.pdb
